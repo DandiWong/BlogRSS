@@ -1,6 +1,3 @@
-[Rocky Sand Studio News](http://www.rockysandstudio.com) : http://rockysandstudio.com/tag/news/feed
-
-
 [iamsujie的产品设计：人人都是产品经理](http://iamsujie.com) : http://iamsujie.com/feed/
 
 
@@ -13,13 +10,13 @@
 [刘未鹏 | Mind Hacks](http://mindhacks.cn) : http://mindhacks.cn/feed/
 
 
-[博客园_winter-cn](http://www.cnblogs.com/winter-cn/) : http://www.cnblogs.com/winter-cn/rss
-
-
 [善用佳软:精品免费软件](http://blog.sina.com.cn/xbeta) : http://blog.sina.com.cn/rss/1188742767.xml
 
 
 [学而时嘻之](http://www.geekonomics10000.com) : http://www.geekonomics10000.com/feed
+
+
+[明学的白板](http://ksmx.me/) : http://ksmx.me/rss/
 
 
 [月光博客](http://www.williamlong.info/) : http://feed.williamlong.info
@@ -28,19 +25,13 @@
 [酷 壳 - CoolShell.cn](http://coolshell.cn) : http://coolshell.cn/feed
 
 
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/) : http://feeds.feedburner.com/ruanyifeng
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/) : http://www.ruanyifeng.com/blog/atom.xml
 
 
 [善用佳软](http://xbeta.info) : http://feed.xbeta.info/
 
 
-[褪墨](http://www.mifengtd.cn) : http://www.mifengtd.cn/feed
-
-
-[北斗网](http://www.ibeidou.org) : http://www.ibeidou.net/?feed=rss2
-
-
-[西乔的九卦](http://blog.xiqiao.info) : http://blog.xiqiao.info/feed
+[Example Code](http://examplecode.github.io) : http://examplecode.github.io/atom.xml
 
 
 [改变从这里开始 - 心理网](http://www.xinli001.com/) : http://feed.feedsky.com/xinli001
@@ -58,7 +49,7 @@
 [36氪 | 关注互联网创业](http://www.36kr.com/) : http://www.36kr.com/feed
 
 
-[互联网的一些事-关注互联网产品管理，交流产品设计、用户体验心得](http://www.yixieshi.com) : http://feed.yixieshi.com/
+[Rocky Sand Studio News](http://www.rockysandstudio.com) : http://rockysandstudio.com/tag/news/feed
 
 
 [外刊IT评论](http://www.vaikan.com) : http://feed.feedsky.com/aqee-net
